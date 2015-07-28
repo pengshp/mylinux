@@ -1,0 +1,5 @@
+官方文档的中文翻译版：http://git.oschina.net/progit/
+
+Git的官方网站：http://git-scm.com
+
+
