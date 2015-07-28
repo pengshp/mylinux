@@ -1,2 +1,6 @@
 my--git
+<<<<<<< HEAD
 master of git
+=======
+hello git
+>>>>>>> new
